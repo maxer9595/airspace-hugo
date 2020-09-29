@@ -188,6 +188,9 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
+icon = "ion-social-facebook-outline"
+link = "#https://www.facebook.com/OksanaMarkoMakeup"
+[[params.social]]
 icon = "ion-social-googleplus-outline"
 link = "#"
 [[params.social]]
@@ -202,6 +205,3 @@ link = "#"
 [[params.social]]
 icon = "ion-social-twitter-outline"
 link = "#"
-[[params.social]]
-icon = "ion-social-facebook-outline"
-link = "#https://www.facebook.com/OksanaMarkoMakeup"
