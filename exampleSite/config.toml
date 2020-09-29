@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "Oksana Marko MakeUp"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 MrDestructoid All Rights Reserved"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
