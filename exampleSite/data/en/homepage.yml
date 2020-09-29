@@ -43,15 +43,14 @@ portfolio:
 service:
   enable: true
 cta:
-  enable: false
-  bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  enable: true
+  bg_image: "/images/tlo-2.jpg"
+  title: Zapraszam Do Kontaktu
+  content: Mam nadzieję, że się nie zawiedziesz i choć jedna z moich dotychczasowych
+    prac cieszy Twoje oko!
   button:
     enable: true
-    label: Tell Us Your Story
+    label: E-Mail
     link: contact
 funfacts:
   enable: true
