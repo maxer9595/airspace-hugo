@@ -1,5 +1,5 @@
 baseURL = "http://oksanamkup.netlify.com"
-disableLanguages = []
+disableLanguages = ["fr-fr"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
