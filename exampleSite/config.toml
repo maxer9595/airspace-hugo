@@ -1,10 +1,10 @@
 baseURL = "http://oksanamkup.netlify.com"
-disableLanguages = ["fr-fr"]
+disableLanguages = ["Fr-fr", "Fr", "FR", "fr-fr"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
-title = "Airspace | Creative Agency Hugo Template"
+title = "Oksana Marko MakeUp"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
